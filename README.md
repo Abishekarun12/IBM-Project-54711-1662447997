@@ -38,28 +38,3 @@ This Guided Project mainly focuses on applying a machine-learning algorithm to d
 
 In order to detect and predict e-banking phishing websites, we proposed an intelligent, flexible and effective system that is based on using classification algorithms. We implemented classification algorithms and techniques to extract the phishing datasets criteria to classify their legitimacy. The e-banking phishing website can be detected based on some important characteristics like URL and domain identity, and security and encryption criteria in the final phishing detection rate. Once a user makes a transaction online when he makes payment through an e-banking website our system will use a data mining algorithm to detect whether the e-banking website is a phishing website or not.
 
-#Technical Architecture :
-image
-
-# FINAL OUTPUT:
-After executing the source codes we get the following outputs as follows first we get a command prompt output with the URL over there we have to copy that particular URL and paste it in your web browser. In our project we have used google chrome web browser for the execution.
-
-local deployment
-
-After the URL has been pasted we get the home page of our project web phishing detection.
-
-1 2
-
-Here we have two options to predict the website one is we can click on check your website or you can click on get started to proceed your website prediction the diplay screen is as follows
-
-Screenshot (6)
-
-PREDICTION OF SAFE WEBSITE:
-Here we have used the original website as a prediction so now we have pasted that URL in our project web page and we clicked on Predict and here the result will be produced as "YOU ARE SAFE! THIS IS A LEGITIMATE WEBSITE."
-
-3
-
-PREDICTION OF UNSAFE WEBSITE:
-Here we have used a fake website as a prediction so now we again pasted the fake URL in our project web page and we clicked on Predict and here the result will be produced as "YOU ARE ON THE WRONG SITE BE CAUTIONS!".
-
-4
